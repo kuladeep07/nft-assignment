@@ -1,5 +1,5 @@
 import { useWeb3React } from "@web3-react/core"
-import { injected } from "/components/wallet/Connectors"
+import { injected } from "../components/wallet/Connectors"
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
